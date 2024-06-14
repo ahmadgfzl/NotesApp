@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "580188678308",
+    "firebase_url": "https://notesapp-b1dcc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "notesapp-b1dcc",
+    "storage_bucket": "notesapp-b1dcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580188678308:android:cb2a3c7da7aafc8c781e31",
+        "android_client_info": {
+          "package_name": "com.example.kotlintodopractice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Etu89bmeA6veP33B44OPMSSsI8awjSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580188678308:android:0b2f4725928ab5e6781e31",
+        "android_client_info": {
+          "package_name": "com.project.notedapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Etu89bmeA6veP33B44OPMSSsI8awjSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580188678308:android:2ac9a7a35a776d2f781e31",
+        "android_client_info": {
+          "package_name": "com.project.notesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Etu89bmeA6veP33B44OPMSSsI8awjSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
